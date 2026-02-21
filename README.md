@@ -1,12 +1,16 @@
 # Hi, I'm Alex Hillman
 
-**Philadelphia** | **Coworking pioneer** | **Building [JFDI Bot](https://jfdi.bot)**
+**Philadelphia** | **Coworking Pioneer, Community & Business Builder, Recovering Developer** | **Building [JFDI Bot](https://jfdi.bot)**
 
-I founded [Indy Hall](https://indyhall.org), one of the world's longest-running coworking communities (18+ years). Now I'm building Andy — a custom AI chief of staff powered by Claude Code — and open-sourcing the tools that come out of that process.
+I founded [Indy Hall](https://indyhall.org), one of the world's longest-running coworking communities (est 2006). 
 
-> I don't build AI tools. I build a business with AI, and release the parts that might help you do the same.
+I co-founded Stacking the Bricks, where we've helped thousands of students learn to [finish the projects they start](https://stackingthebricks.com/just-fucking-ship/), ship products [people want to buy](https://stackingthebricks.com/how-do-you-create-a-product-people-want-to-buy-video/), and [make better business decisions with the long-view in mind](https://tiny.mba). 
+
+Now I'm building JFDIBot — my digital chief of staff powered by Claude Code — and open-sourcing the tools and lessons that come out of that process.
 
 ## Featured Projects
+
+Here are some crowd favorites
 
 | Stars | Project | What it does |
 |-------|---------|-------------|
@@ -18,7 +22,7 @@ I founded [Indy Hall](https://indyhall.org), one of the world's longest-running 
 
 ## Claude Code Tools
 
-Tools I built while building Andy, my AI executive assistant:
+Tools and utilities that I use in JFDIBot:
 
 - **[cc-hotswap](https://github.com/alexknowshtml/cc-hotswap)** — Rotate between multiple Claude Code Max plan accounts from the CLI
 - **[cord](https://github.com/alexknowshtml/cord)** — Discord to Claude Code bridge for async agent conversations
@@ -26,13 +30,11 @@ Tools I built while building Andy, my AI executive assistant:
 - **[cc-chat-kit](https://github.com/alexknowshtml/cc-chat-kit)** — WebSocket wrapper for Claude CLI with React client
 - **[kuato](https://github.com/alexknowshtml/kuato)** — Agent memory and session recall across conversations
 - **[drawbridge](https://github.com/alexknowshtml/drawbridge)** — Real-time diagram server for Claude Code
-- **[dev-browser](https://github.com/alexknowshtml/dev-browser)** — Give your agent the ability to use a web browser
+- **[dev-browser](https://github.com/alexknowshtml/dev-browser)** — my fork of [the original](https://github.com/SawyerHood/dev-browser) skill that lets my assistant in a remote VM control a browser on my mac
 
 ## CLI Tools
 
-- **[smaug](https://github.com/alexknowshtml/smaug)** — Twitter/X bookmark archiver with AI analysis
-- **[gogcli](https://github.com/alexknowshtml/gogcli)** — Google Suite CLI: Gmail, Calendar, Drive, Contacts
-- **[bird](https://github.com/alexknowshtml/bird)** — Twitter CLI for agents
+- **[smaug](https://github.com/alexknowshtml/smaug)** — Twitter bookmark archiver with AI analysis
 - **[api2cli](https://github.com/alexknowshtml/api2cli)** — Build CLIs for humans and AI agents
 - **[peek-api](https://github.com/alexknowshtml/peek-api)** — Discover internal APIs from any website
 - **[unmumble](https://github.com/alexknowshtml/unmumble)** — Raycast script that fixes typos with AI before you send
@@ -42,25 +44,17 @@ Tools I built while building Andy, my AI executive assistant:
 - **[defib](https://github.com/alexknowshtml/defib)** — System defibrillator: monitors containers, processes, and swap with auto-recovery
 - **[pearsnap](https://github.com/alexknowshtml/pearsnap)** — Lightweight macOS screenshot tool (tribute to Skitch)
 - **[curio](https://github.com/alexknowshtml/curio)** — Personal knowledge capture and reflection
-- **[notion-to-markdown](https://github.com/alexknowshtml/notion-to-markdown)** — Migrate Notion exports to clean markdown
 
 ## Writing & Community
 
 - **[andy-timeline](https://github.com/alexknowshtml/andy-timeline)** — The Andy Timeline: an AI assistant's origin story, told week by week
 - **[indyhall-ai-ethics-guidelines](https://github.com/alexknowshtml/indyhall-ai-ethics-guidelines)** — Framework for thoughtful AI use in community-centered organizations
+- **[notion-to-markdown](https://github.com/alexknowshtml/notion-to-markdown)** — Migrate Notion exports to clean markdown
 
-## The Andy Project
+## The JFDIBot Project - aka Andy
 
-Andy is my custom-tailored AI chief of staff — built on Claude Code, running on my own infrastructure, managing my calendar, email, relationships, and projects. [JFDI Bot](https://jfdi.bot) is the productized version.
+Andy is my custom-tailored AI chief of staff — built on Claude Code, running on my own infrastructure, managing my calendar, email, relationships, projects, and more. 
 
-The [Andy Timeline](https://github.com/alexknowshtml/andy-timeline) documents the full build in public, week by week.
+[JFDI Bot](https://jfdi.bot) is the version that I custom tailor for other business owners as a hands-on concierge service + business owner community. I also publish articles about my lessons learned and new releases there. 
 
-## Connect
-
-[![Twitter](https://img.shields.io/badge/-@alexhillman-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/alexhillman)
-[![Website](https://img.shields.io/badge/-jfdi.bot-D97757?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48dGV4dCB5PScuOWVtJyBmb250LXNpemU9JzkwJz7imqE8L3RleHQ+PC9zdmc+&logoColor=white)](https://jfdi.bot)
-[![Indy Hall](https://img.shields.io/badge/-Indy_Hall-000000?style=flat-square)](https://indyhall.org)
-
----
-
-*Building in public since 2006. Deep in the AI tools space — shipping fast, sharing everything.*
+The [Andy Timeline](https://github.com/alexknowshtml/andy-timeline) documents the full build of Andy in public, week by week.
