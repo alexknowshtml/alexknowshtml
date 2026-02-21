@@ -63,4 +63,4 @@ The [Andy Timeline](https://github.com/alexknowshtml/andy-timeline) documents th
 
 ---
 
-*Building in public since 2006. Currently deep in the AI tools space — shipping fast, sharing everything.*
+*Building in public since 2006. Deep in the AI tools space — shipping fast, sharing everything.*
