@@ -60,6 +60,12 @@ Tools and utilities that I use in JFDIBot:
 - **[indyhall-ai-ethics-guidelines](https://github.com/alexknowshtml/indyhall-ai-ethics-guidelines)** — Framework for thoughtful AI use in community-centered organizations
 - **[notion-to-markdown](https://github.com/alexknowshtml/notion-to-markdown)** — Migrate Notion exports to clean markdown
 
+## Contributions
+
+Projects I contribute to but don't own:
+
+- **[gogcli](https://github.com/steipete/gogcli)** — Google Suite CLI for Gmail, GCal, GDrive, and GContacts
+
 ## The JFDIBot Project - aka Andy
 
 Andy is my custom-tailored AI chief of staff — built on Claude Code, running on my own infrastructure, managing my calendar, email, relationships, projects, and more. 
