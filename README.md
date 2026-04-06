@@ -30,12 +30,16 @@ Tools and utilities that I use in JFDIBot:
 - **[cc-chat-kit](https://github.com/alexknowshtml/cc-chat-kit)** — WebSocket wrapper for Claude CLI with React client
 - **[kuato](https://github.com/alexknowshtml/kuato)** — Agent memory and session recall across conversations
 - **[drawbridge](https://github.com/alexknowshtml/drawbridge)** — Real-time diagram server for Claude Code
+- **[claude-session-share](https://github.com/alexknowshtml/claude-session-share)** — Render Claude Code session transcripts as styled HTML pages and upload to S3-compatible storage
+- **[trailhead](https://github.com/alexknowshtml/trailhead)** — Session tracking protocol for Claude Code skills — every session leaves a trail marker so the next can find its way back
+- **[claude-code-safety-hooks](https://github.com/alexknowshtml/claude-code-safety-hooks)** — Production-tested safety primitives: dangerous command guard + untrusted content defense
 - **[dev-browser](https://github.com/alexknowshtml/dev-browser)** — my fork of [the original](https://github.com/SawyerHood/dev-browser) skill that lets my assistant in a remote VM control a browser on my mac
 
 ## CLI Tools
 
 - **[smaug](https://github.com/alexknowshtml/smaug)** — Twitter bookmark archiver with AI analysis
 - **[api2cli](https://github.com/alexknowshtml/api2cli)** — Build CLIs for humans and AI agents
+- **[gogcli](https://github.com/alexknowshtml/gogcli)** — Google Suite CLI for Gmail, GCal, GDrive, and GContacts
 - **[peek-api](https://github.com/alexknowshtml/peek-api)** — Discover internal APIs from any website
 - **[unmumble](https://github.com/alexknowshtml/unmumble)** — Raycast script that fixes typos with AI before you send
 
@@ -43,7 +47,13 @@ Tools and utilities that I use in JFDIBot:
 
 - **[defib](https://github.com/alexknowshtml/defib)** — System defibrillator: monitors containers, processes, and swap with auto-recovery
 - **[pearsnap](https://github.com/alexknowshtml/pearsnap)** — Lightweight macOS screenshot tool (tribute to Skitch)
+- **[bree-plugin-jitter](https://github.com/alexknowshtml/bree-plugin-jitter)** — Deterministic jitter for Bree scheduler — prevents thundering herd when multiple jobs share a cron schedule
+- **[just-bash-gdrive](https://github.com/alexknowshtml/just-bash-gdrive)** — Google Drive filesystem adapter for just-bash
 - **[curio](https://github.com/alexknowshtml/curio)** — Personal knowledge capture and reflection
+
+## Apps & Products
+
+- **[jfdireader](https://github.com/alexknowshtml/jfdireader)** — A modern Google Reader clone with ATProto-powered social features — unified inbox for RSS, newsletters, and social with keyboard-first triage
 
 ## Writing & Community
 
