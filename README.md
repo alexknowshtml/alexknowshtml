@@ -39,7 +39,6 @@ Tools and utilities that I use in JFDIBot:
 
 - **[smaug](https://github.com/alexknowshtml/smaug)** — Twitter bookmark archiver with AI analysis
 - **[api2cli](https://github.com/alexknowshtml/api2cli)** — Build CLIs for humans and AI agents
-- **[gogcli](https://github.com/alexknowshtml/gogcli)** — Google Suite CLI for Gmail, GCal, GDrive, and GContacts
 - **[peek-api](https://github.com/alexknowshtml/peek-api)** — Discover internal APIs from any website
 - **[unmumble](https://github.com/alexknowshtml/unmumble)** — Raycast script that fixes typos with AI before you send
 
