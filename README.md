@@ -24,7 +24,6 @@ Here are some crowd favorites
 
 Tools and utilities that I use in JFDIBot:
 
-- **[cc-hotswap](https://github.com/alexknowshtml/cc-hotswap)** — Rotate between multiple Claude Code Max plan accounts from the CLI
 - **[cord](https://github.com/alexknowshtml/cord)** — Discord to Claude Code bridge for async agent conversations
 - **[create-cord](https://github.com/alexknowshtml/create-cord)** — Scaffold a new Cord bridge in seconds
 - **[cc-chat-kit](https://github.com/alexknowshtml/cc-chat-kit)** — WebSocket wrapper for Claude CLI with React client
